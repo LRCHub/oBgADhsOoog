@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "みきとP 『 いーあるふぁんくらぶ 』 MV",
+  "base_artist": "みきとP",
+  "createdAt": "2025-12-06T10:20:47.759688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みきとP 『 いーあるふぁんくらぶ 』 MV",
+      "artist": "MikitoP",
+      "has_synced": true,
+      "path": "select/01_みきとP_『_いーあるふぁんくらぶ_』_MV_MikitoP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP feat. GUMI・鏡音リン",
+      "has_synced": true,
+      "path": "select/02_いーあるふぁんくらぶ_みきとP_feat._GUMI・鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP Feat. GUMI, 鏡音リン",
+      "has_synced": true,
+      "path": "select/03_いーあるふぁんくらぶ_みきとP_Feat._GUMI,_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ-Ryu☆ Remix-",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/04_いーあるふぁんくらぶ-Ryu☆_Remix-_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ-Ryu☆ Remix-",
+      "artist": "みきとP",
+      "has_synced": true,
+      "path": "select/05_いーあるふぁんくらぶ-Ryu☆_Remix-_みきとP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP feat. ぐるたみん",
+      "has_synced": false,
+      "path": "select/06_いーあるふぁんくらぶ_みきとP_feat._ぐるたみん.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/07_いーあるふぁんくらぶ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/08_いーあるふぁんくらぶ_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ　feat. 鏡音リン, GUMI",
+      "artist": "みきとP",
+      "has_synced": true,
+      "path": "select/09_いーあるふぁんくらぶ_feat._鏡音リン,_GUMI_みきとP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/10_いーあるふぁんくらぶ_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/11_いーあるふぁんくらぶ_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ - I-aru Fanclub",
+      "artist": "Mikito-P",
+      "has_synced": true,
+      "path": "select/12_いーあるふぁんくらぶ_-_I-aru_Fanclub_Mikito-P.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "Mikito-P feat. GUMI, Kagamine, Rin",
+      "has_synced": false,
+      "path": "select/13_いーあるふぁんくらぶ_Mikito-P_feat._GUMI,_Kagamine,_Rin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP",
+      "has_synced": false,
+      "path": "select/14_いーあるふぁんくらぶ_みきとP.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/15_いーあるふぁんくらぶ_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "相川千穂(CV:茅野愛衣)、岡野佳(CV:潘めぐみ)",
+      "has_synced": false,
+      "path": "select/16_いーあるふぁんくらぶ_相川千穂(CV_茅野愛衣)、岡野佳(CV_潘めぐみ).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/17_いーあるふぁんくらぶ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "MikotoP",
+      "has_synced": true,
+      "path": "select/18_いーあるふぁんくらぶ_MikotoP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いーあるふぁんくらぶ",
+      "artist": "みきとP",
+      "has_synced": false,
+      "path": "select/pl_01_いーあるふぁんくらぶ_みきとP.txt"
+    }
+  ]
+}
